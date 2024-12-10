@@ -1,3 +1,7 @@
+// week 1.2
+// JS Foundation
+// assignment questions 3
+
 const allUsers = [
   {
     firstName: "Ganesham",
