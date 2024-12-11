@@ -1,7 +1,7 @@
 // * week 1.2
 // * JS Foundation
 
-// todo assignment questions 3
+// ? assignment questions 3
 
 // const allUsers = [
 //   {
